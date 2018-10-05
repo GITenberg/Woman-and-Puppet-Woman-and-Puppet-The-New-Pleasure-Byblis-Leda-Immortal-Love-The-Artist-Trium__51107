@@ -28,6 +28,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Woman and Puppet
 
   Woman and Puppet; The New Pleasure; Byblis; Lêda;; Immortal Love; The Artist Triumphant;
